@@ -14,3 +14,5 @@ pandoc texlive-latex-extra texlive-science python3-pip xclip fonts-dejavu ttf-de
 google-chrome-stable
 ctags cmake
 gcc-multilib libx11-dev:i386
+
+virt-manager
