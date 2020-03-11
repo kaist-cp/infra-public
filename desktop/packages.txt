@@ -1,7 +1,7 @@
 git
 vim emacs
 zsh tmux
-build-essential gcc clang opam python3-venv default-jdk ruby-dev
+build-essential gcc clang opam python3-venv default-jdk rbenv rvm
 wget curl libssl-dev
 htop cron
 gnome-tweaks ibus ibus-hangul fonts-hack-ttf fonts-powerline
