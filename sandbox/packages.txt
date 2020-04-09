@@ -1,10 +1,11 @@
 git
 vim neovim emacs26
 zsh tmux
-build-essential gcc clang opam python3-venv python3-pip default-jdk
-wget curl libssl-dev
+build-essential gcc clang opam ocaml python3-venv python3-pip default-jdk nodejs
+wget curl libssl-dev sshfs
 ctags cmake
 htop cron
+xclip
 
 texlive-full
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
