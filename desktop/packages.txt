@@ -18,3 +18,4 @@ ctags cmake
 gcc-multilib libx11-dev:i386
 
 virt-manager
+qemu-system-arm
