@@ -11,6 +11,7 @@ libssl-dev sshfs
 ctags cmake
 htop cron
 xclip
+gcc-10-riscv64-linux-gnu qemu-user-static
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
