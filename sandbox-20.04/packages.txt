@@ -13,6 +13,7 @@ ctags cmake
 htop cron
 xclip
 gcc-10-riscv64-linux-gnu qemu-user-static
+gcc-riscv64-linux-gnu qemu-system-misc gdb-multiarch
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
