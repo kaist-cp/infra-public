@@ -13,7 +13,6 @@ ctags cmake
 htop cron
 xclip
 gcc-riscv64-linux-gnu gcc-aarch64-linux-gnu
-gcc-multilib libx11-dev:i386
 gdb-multiarch
 qemu-user-static qemu-system-arm qemu-system-misc
 
