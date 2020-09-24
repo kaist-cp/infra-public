@@ -9,3 +9,4 @@ sudo bash -c "echo 'deb https://apt.hamonikr.org jin main upstream' > /etc/apt/s
 sudo bash -c "echo 'deb-src https://apt.hamonikr.org jin main upstream' >> /etc/apt/sources.list.d/hamonikr-jin.list"
 
 sudo snap install --classic code
+sudo ubuntu-drivers install
