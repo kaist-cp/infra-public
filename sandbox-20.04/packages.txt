@@ -16,6 +16,7 @@ gcc-riscv64-linux-gnu gcc-aarch64-linux-gnu
 gdb-multiarch
 qemu-user-static qemu-system-arm qemu-system-misc=1:4.2-3ubuntu6
 virt-manager
+libncurses5 libtinfo5
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
