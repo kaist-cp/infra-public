@@ -1,7 +1,7 @@
 git man-db locales
 vim neovim emacs
 zsh bash-completion tmux
-sudo build-essential m4 gcc clang gcc-multilib opam ocaml python3-venv python3-pip default-jdk nodejs
+sudo build-essential m4 gcc clang opam ocaml python3-venv python3-pip default-jdk nodejs
 autoconf automake autotools-dev libtool-bin pkg-config ninja-build
 libgmp-dev libsqlite3-dev zlib1g-dev libmpfr-dev
 libreadline-dev
