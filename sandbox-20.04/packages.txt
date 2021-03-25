@@ -19,6 +19,7 @@ virt-manager
 libncurses5 libtinfo5
 haskell-platform haskell-stack
 nimf nimf-libhangul
+cloc
 
 fonts-hack-ttf fonts-powerline fonts-dejavu ttf-dejavu fonts-symbola
 texlive-full
